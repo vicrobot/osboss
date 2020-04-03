@@ -1,0 +1,11 @@
+n is 829 - 9 -8 + 88
+p is 93 - 21 + 2
+s is "one man"
+s1 is " army"
+show s + s1
+show type(s1)
+show n
+show p
+show n + p
+show n + 21 + p
+show f"{n}"
